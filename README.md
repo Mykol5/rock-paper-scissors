@@ -1,5 +1,5 @@
 # rock-paper-scissors
-This is repository contains a python file containing code for a simple rock, paper, scissors game between two players (Computer vs User).
+This repository contains a python file containing code for a simple rock, paper, scissors game between two players (Computer vs User).
 To play game, run the rpsgames.py file on command prompt, pick either rock, paper or scissors at random and press Enter to commence game.
 
 Links used:
